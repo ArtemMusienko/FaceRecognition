@@ -2,15 +2,16 @@
 
 ## Face recognition with using OpenCV
 
-*Основная задача* - реализовать распознавание лиц с помощью библиотеки **OpenCV** и учесть ряд пунктов, далее описанных.
+[![ru](https://img.shields.io/badge/README_на_русском-2A2C39?style=for-the-badge&logo=github&logoColor=white)](README.ru.md)
 
-Был реализован ряд следующих пунктов:
-1. Нашел фото известного актера - Бред Питта;
-2. Нашел изображение солнцезащитных очков;
-3. Распознал лицо на фотографии, выделив его овалом;
-4. Выделил кружками глаза на изображении;
-5. Разместил вместо кружков солнцезащитные очки;
-6. Все лицо кроме глаз необходимо *заблюрить;*
-7. Вывести результат в виде **4** изображений, описывающих поэтапную реализацию всех пунктов.
+*The main task* is to implement face recognition using the **OpenCV** library and take into account a number of points described below.
+The following points were implemented:
+1. Found a photo of a famous actor named Brad Pitt;
+2. Found an image of sunglasses;
+3. Recognized the face in the photo by enclosing it in an oval;
+4. Enclosed the eyes in the image with circles;
+5. Placed sunglasses instead of the circles;
+6. All face except eyes must be *blurred;*
+7. Output the result as **4** images describing the step-by-step implementation of all points.
 
-> Использование графических ускорителей необязательно. 
+> The use of graphics accelerators is optional.
